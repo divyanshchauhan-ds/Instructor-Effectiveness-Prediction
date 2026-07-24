@@ -129,25 +129,25 @@ These factors had the greatest impact on predicting instructor effectiveness.
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](https://raw.githubusercontent.com/divyanshchauhan-ds/Instructor-Effectiveness-Prediction/main/images/correlation_heatmap.png)
 
 ---
 
 ### Completion Rate vs Dropout Rate
 
-![Completion vs Dropout](images/completion_vs_dropout.png)
+![Completion vs Dropout](https://raw.githubusercontent.com/divyanshchauhan-ds/Instructor-Effectiveness-Prediction/main/images/completion_vs_dropout.png)
 
 ---
 
 ### Engineered Feature Correlation
 
-![Engineered Features](images/engineered_features_heatmap.png)
+![Engineered Features](https://raw.githubusercontent.com/divyanshchauhan-ds/Instructor-Effectiveness-Prediction/main/images/engineered_features_heatmap.png)
 
 ---
 
 ### Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](https://raw.githubusercontent.com/divyanshchauhan-ds/Instructor-Effectiveness-Prediction/main/images/feature_importance.png)
 
 ---
 
